@@ -56,5 +56,4 @@ With additional configuration, this sample also supports connecting to an **Azur
 -[Azure Communication iOS Calling SDK](https://github.com/Azure/Communication/releases/)
 
 ## Known Issues
-
 Please refer to the [wiki](https://github.com/Azure-Samples/communication-services-ios-calling-hero/wiki/Known-Issues) for known issues related to this sample.
